@@ -1,0 +1,14 @@
+{
+	"name": "babel-lab-code",
+	"version": "0.0.2",
+	"main": "Gruntfile.js",
+	"devDependencies": {
+		"grunt": 									"latest",
+		"grunt-contrib-watch": 		"latest",
+		"grunt-babel": 						"latest",
+		"grunt-copy-to": 					"latest",
+		"grunt-notify": 					"latest"
+	},
+	"author": "Vinicius Marques",
+	"license": "ISC"
+}
